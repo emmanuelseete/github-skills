@@ -7,7 +7,7 @@
 - [ ] _[Course](https://github.com/skills/connect-the-dots)_ — Connect the dots in a GitHub repository
 - [ ] _[Course](https://github.com/skills/copilot-codespaces-vscode)_ — Code with GitHub Copilot
 - [ ] _[Course](https://github.com/skills/deploy-to-azure)_ — Deploy to Azure
-- [ ] _[Course](https://github.com/skills/github-pages)_ — GitHub Pages
+- [x] _[Course](https://github.com/skills/github-pages)_ — GitHub Pages
 - [ ] _[Course](https://github.com/skills/hello-github-actions)_ — Hello GitHub Actions
 - [ ] _[Course](https://github.com/skills/introduction-to-codeql)_ — Enable CodeQL to secure your source code
 - [x] _[Course](https://github.com/skills/introduction-to-github)_ — Introduction to GitHub
